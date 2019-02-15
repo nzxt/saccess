@@ -1,0 +1,22 @@
+{
+  "extends": "@nuxt/typescript",
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "types": [
+      "@types/node",
+      "@nuxt/vue-app",
+    ],
+    // "module": "esnext",
+    // "target": "esnext",
+    // "lib": [
+    //   "esnext",
+    //   "dom",
+    // ],
+    "paths": {
+      "~/*": ["./*"],
+      "@/*": ["./*"]
+    }
+  },
+}

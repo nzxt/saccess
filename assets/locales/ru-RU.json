@@ -1,0 +1,55 @@
+{
+  "svg": {
+	"text1": [
+	  "Рады",
+	  "Вас",
+	  "Видеть"
+	],
+	"text2": [
+	  "Центр",
+	  "Оценивания",
+	  "Продаж"
+	],
+	"text3": [
+	  "Давай",
+	  "Пройдём",
+	  "Тесты"
+	]
+  },
+  "title": "Центр оценки продаж",
+  "title_html": "<span class='abbreviation'>Ц</span><span class='ghost'>ентр</span> <span class='abbreviation'>О</span><span class='ghost'>ценивания</span> <span class='abbreviation'>П</span><span class='ghost'>родаж</span>",
+  "actions": "Действия",
+  "yes": "Да",
+  "no": "Нет",
+  "edit": "Редактировать",
+  "username": "Имя пользователя",
+  "password": "Пароль",
+  "password_confirm": "Подтвердите пароль",
+  "signin": "Войти",
+  "login": "Логин",
+  "forgot_password": "Забыли пароль?",
+  "remove": "Удалить",
+  "destroy_confirm_title": "Пожалуйста подтвердите",
+  "destroy_confirm": "Вы уверены, что хотите удалить это?",
+  "logout": "Выйти",
+  "signout": "Выйти",
+  "back": "Вернуться",
+  "save": "Сохранить",
+  "update": "Обновить",
+  "messages": {
+    "signin_title": "Войдите в свой аккаунт",
+    "signin_tip": "Привет, Пользователь! Войдите, для начала.."
+  },
+  "forms": {
+    "errors": {
+      "required": "Пожалуйста, заполните это.",
+      "standard": "Произошла ошибка сервера."
+    }
+  },
+  "user": {
+    "singular": "пользователь",
+    "plural": "пользователи",
+    "new": "Новый пользователь",
+    "edit": "Редактировать пользователя"
+  }
+}

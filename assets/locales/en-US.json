@@ -1,0 +1,55 @@
+{
+  "svg": {
+	"text1": [
+	  "You",
+	  "Are",
+	  "Welcome"
+	],
+	"text2": [
+	  "Sales",
+	  "Assessment",
+	  "Center"
+	],
+	"text3": [
+	  "Let's",
+	  "Play",
+	  "Tests"
+	]
+  },
+  "title": "Sales Assessment Center",
+  "title_html": "<span class='abbreviation'>S</span><span class='ghost'>ales</span> <span class='abbreviation'>A</span><span class='ghost'>ssessment</span> <span class='abbreviation'>C</span><span class='ghost'>enter</span>",
+  "actions": "Actions",
+  "yes": "Yes",
+  "no": "No",
+  "edit": "Edit",
+  "username": "Username",
+  "password": "Password",
+  "password_confirm": "Confirm Password",
+  "signin": "Sign In",
+  "login": "Login",
+  "forgot_password": "Forgot Password?",
+  "remove": "Remove",
+  "destroy_confirm_title": "Please Confirm",
+  "destroy_confirm": "Are you sure you want to remove this?",
+  "logout": "Log Out",
+  "signout": "Sign Out",
+  "back": "Back",
+  "save": "Save",
+  "update": "Update",
+  "messages": {
+    "signin_title": "Enter your account",
+    "signin_tip": "Hi, User! SignIn, first.."
+  },
+  "forms": {
+    "errors": {
+      "required": "Please fill this out.",
+      "standard": "A server error occurred."
+    }
+  },
+  "cars": {
+    "singular": "car",
+    "plural": "cars",
+    "new": "New Car",
+    "edit": "Edit Car"
+  }
+}

@@ -1,0 +1,1572 @@
+{
+  "Id": "f8d2a398-843c-4dff-b1ec-8fa5b3fa61e6",
+  "InternalTestName": "LevelOfResponsibility",
+  "TestName": [
+    {
+      "Locale": "ru",
+      "Name": "Уровень ответственности"
+    },
+    {
+      "Locale": "en",
+      "Name": "EN_Уровень ответственности"
+    },
+    {
+      "Locale": "ua",
+      "Name": "Рівень відповідальності"
+    }
+  ],
+  "Instruction": [
+    {
+      "Locale": "ru",
+      "Text": "<span> <p class=\"title\">Уважаемый коллега!</p> <p>Вам предлагается пройти тестирование <strong>«Уровень ответственности»</strong>.</p> <p>В тесте приведены <strong>37</strong> утверждений, описывающих различные убеждения. Вы должны выступить по отношению к себе как честный наблюдатель и решить, до какой степени эти утверждения соответствуют Вашей ОБЫЧНОЙ реакции, т.е. выберите вариант ответа из раскрывающегося списка..</p> <p>Отвечайте настолько спонтанно, насколько это возможно!.</p> <p>Тест имеет ограничение по времени – <strong>15 минут</strong>. Таймер, показывающий количество оставшегося времени, а так же состояние прохождения теста Вы можете увидеть на верхней панели.</p> <p>Если время, отведенное на прохождение теста вышло, а какие-либо вопросы остались без ответа, тест будет считаться не пройденным без права на повторное прохождение.</p> <p class=\"subheading\" style=\"text-decoration: underline\">Управление:</p> <p> <i class=\"mdi deep-orange--text text--lighten-2 icon mdi-marker-check\"></i> <strong>«Завершить тест»</strong> -  после того как Вы ответили на все вопросы, необходимо нажать на кнопку на верхней панели.<br/> <i class=\"mdi strong blue--text text--lighten-2 icon mdi-information\"></i> <strong>«Инструкция»</strong> - данная инструкция будет доступна Вам по нажатию на кнопку в левом нижнем углу интерфейса.<br/> <i class=\"mdi strong purple--text text--lighten-2 icon mdi-arrow-up-drop-circle\"></i> <strong>«Вверх»</strong> - прокрутка списка вопросов вверх до начала страницы, находится в правом нижнем углу интерфейса. </p> <p class=\"subheading\"><span style=\"text-decoration: underline\">ВАЖНО!!!</span>   Пожалуйста, работайте быстро и внимательно!</p> <p><strong>Обращаем Ваше внимание на то, что каждый тест можно пройти только один раз!</strong><br/>Поэтому, не закрывайте браузер и не уходите со страницы прохождения теста.</p> </span>"
+    },
+    {
+      "Locale": "en",
+      "Text": "<span> <p class=\"title\">EN_Уважаемый коллега!</p> <p>Вам предлагается пройти тестирование <strong>«Уровень ответственности»</strong>.</p> <p>В тесте приведены <strong>37</strong> утверждений, описывающих различные убеждения. Вы должны выступить по отношению к себе как честный наблюдатель и решить, до какой степени эти утверждения соответствуют Вашей ОБЫЧНОЙ реакции, т.е. выберите вариант ответа из раскрывающегося списка..</p> <p>Отвечайте настолько спонтанно, насколько это возможно!.</p> <p>Тест имеет ограничение по времени – <strong>15 минут</strong>. Таймер, показывающий количество оставшегося времени, а так же состояние прохождения теста Вы можете увидеть на верхней панели.</p> <p>Если время, отведенное на прохождение теста вышло, а какие-либо вопросы остались без ответа, тест будет считаться не пройденным без права на повторное прохождение.</p> <p class=\"subheading\" style=\"text-decoration: underline\">Управление:</p> <p> <i class=\"mdi deep-orange--text text--lighten-2 icon mdi-marker-check\"></i> <strong>«Завершить тест»</strong> -  после того как Вы ответили на все вопросы, необходимо нажать на кнопку на верхней панели.<br/> <i class=\"mdi strong blue--text text--lighten-2 icon mdi-information\"></i> <strong>«Инструкция»</strong> - данная инструкция будет доступна Вам по нажатию на кнопку в левом нижнем углу интерфейса.<br/> <i class=\"mdi strong purple--text text--lighten-2 icon mdi-arrow-up-drop-circle\"></i> <strong>«Вверх»</strong> - прокрутка списка вопросов вверх до начала страницы, находится в правом нижнем углу интерфейса. </p> <p class=\"subheading\"><span style=\"text-decoration: underline\">ВАЖНО!!!</span>   Пожалуйста, работайте быстро и внимательно!</p> <p><strong>Обращаем Ваше внимание на то, что каждый тест можно пройти только один раз!</strong><br/>Поэтому, не закрывайте браузер и не уходите со страницы прохождения теста.</p> </span>"
+    },
+    {
+      "Locale": "ua",
+      "Text": "<span> <p class=\"title\">UA_Уважаемый коллега!</p> <p>Вам предлагается пройти тестирование <strong>«Уровень ответственности»</strong>.</p> <p>В тесте приведены <strong>37</strong> утверждений, описывающих различные убеждения. Вы должны выступить по отношению к себе как честный наблюдатель и решить, до какой степени эти утверждения соответствуют Вашей ОБЫЧНОЙ реакции, т.е. выберите вариант ответа из раскрывающегося списка..</p> <p>Отвечайте настолько спонтанно, насколько это возможно!.</p> <p>Тест имеет ограничение по времени – <strong>15 минут</strong>. Таймер, показывающий количество оставшегося времени, а так же состояние прохождения теста Вы можете увидеть на верхней панели.</p> <p>Если время, отведенное на прохождение теста вышло, а какие-либо вопросы остались без ответа, тест будет считаться не пройденным без права на повторное прохождение.</p> <p class=\"subheading\" style=\"text-decoration: underline\">Управление:</p> <p> <i class=\"mdi deep-orange--text text--lighten-2 icon mdi-marker-check\"></i> <strong>«Завершить тест»</strong> -  после того как Вы ответили на все вопросы, необходимо нажать на кнопку на верхней панели.<br/> <i class=\"mdi strong blue--text text--lighten-2 icon mdi-information\"></i> <strong>«Инструкция»</strong> - данная инструкция будет доступна Вам по нажатию на кнопку в левом нижнем углу интерфейса.<br/> <i class=\"mdi strong purple--text text--lighten-2 icon mdi-arrow-up-drop-circle\"></i> <strong>«Вверх»</strong> - прокрутка списка вопросов вверх до начала страницы, находится в правом нижнем углу интерфейса. </p> <p class=\"subheading\"><span style=\"text-decoration: underline\">ВАЖНО!!!</span>   Пожалуйста, работайте быстро и внимательно!</p> <p><strong>Обращаем Ваше внимание на то, что каждый тест можно пройти только один раз!</strong><br/>Поэтому, не закрывайте браузер и не уходите со страницы прохождения теста.</p> </span>"
+    }
+  ],
+  "Version": "1.0.0",
+  "SupportedLocales": [
+    "ru",
+    "en",
+    "ua"
+  ],
+  "Duration": 900,
+  "CommonAnswerOptionSets": [
+    {
+      "Name": "4-disagree-to-agree",
+      "AnswerOptions": [
+        {
+          "Id": 1,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Никогда"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Никогда"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Ніколи"
+            }
+          ]
+        },
+        {
+          "Id": 2,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Редко"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Редко"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Рідко"
+            }
+          ]
+        },
+        {
+          "Id": 3,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Часто"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Часто"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Часто"
+            }
+          ]
+        },
+        {
+          "Id": 4,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Всегда"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Всегда"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Завжди"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "CommonAnswerTranslations": [
+    {
+      "Name": "Direct",
+      "Translations": [
+        {
+          "CommonAnswerOptionSetName": "4-disagree-to-agree",
+          "TranslationOptions": [
+            {
+              "AnswerOptionId": 1,
+              "AnswerOptionValue": 1
+            },
+            {
+              "AnswerOptionId": 2,
+              "AnswerOptionValue": 2
+            },
+            {
+              "AnswerOptionId": 3,
+              "AnswerOptionValue": 3
+            },
+            {
+              "AnswerOptionId": 4,
+              "AnswerOptionValue": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Reverse",
+      "Translations": [
+        {
+          "CommonAnswerOptionSetName": "4-disagree-to-agree",
+          "TranslationOptions": [
+            {
+              "AnswerOptionId": 1,
+              "AnswerOptionValue": 4
+            },
+            {
+              "AnswerOptionId": 2,
+              "AnswerOptionValue": 3
+            },
+            {
+              "AnswerOptionId": 3,
+              "AnswerOptionValue": 2
+            },
+            {
+              "AnswerOptionId": 4,
+              "AnswerOptionValue": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "4221-Direct",
+      "Translations": [
+        {
+          "CommonAnswerOptionSetName": "4-disagree-to-agree",
+          "TranslationOptions": [
+            {
+              "AnswerOptionId": 1,
+              "AnswerOptionValue": 1
+            },
+            {
+              "AnswerOptionId": 2,
+              "AnswerOptionValue": 2
+            },
+            {
+              "AnswerOptionId": 3,
+              "AnswerOptionValue": 2
+            },
+            {
+              "AnswerOptionId": 4,
+              "AnswerOptionValue": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "4221-Reverse",
+      "Translations": [
+        {
+          "CommonAnswerOptionSetName": "4-disagree-to-agree",
+          "TranslationOptions": [
+            {
+              "AnswerOptionId": 1,
+              "AnswerOptionValue": 4
+            },
+            {
+              "AnswerOptionId": 2,
+              "AnswerOptionValue": 2
+            },
+            {
+              "AnswerOptionId": 3,
+              "AnswerOptionValue": 2
+            },
+            {
+              "AnswerOptionId": 4,
+              "AnswerOptionValue": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "4221-Ag-Direct",
+      "Translations": [
+        {
+          "CommonAnswerOptionSetName": "4-disagree-to-agree",
+          "TranslationOptions": [
+            {
+              "AnswerOptionId": 1,
+              "AnswerOptionValue": 0
+            },
+            {
+              "AnswerOptionId": 2,
+              "AnswerOptionValue": 0
+            },
+            {
+              "AnswerOptionId": 3,
+              "AnswerOptionValue": 0
+            },
+            {
+              "AnswerOptionId": 4,
+              "AnswerOptionValue": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "4221-Ag-Reverse",
+      "Translations": [
+        {
+          "CommonAnswerOptionSetName": "4-disagree-to-agree",
+          "TranslationOptions": [
+            {
+              "AnswerOptionId": 1,
+              "AnswerOptionValue": 1
+            },
+            {
+              "AnswerOptionId": 2,
+              "AnswerOptionValue": 0
+            },
+            {
+              "AnswerOptionId": 3,
+              "AnswerOptionValue": 0
+            },
+            {
+              "AnswerOptionId": 4,
+              "AnswerOptionValue": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "CommonCriterionTranslationRangesSets": [
+    {
+      "Id": 1,
+      "SetName": "Range1",
+      "Ranges": [
+        {
+          "Id": 1,
+          "MatchPredicate": "CriterionValue <= 7"
+        },
+        {
+          "Id": 2,
+          "MatchPredicate": "CriterionValue > 7 && CriterionValue <= 13"
+        },
+        {
+          "Id": 3,
+          "MatchPredicate": "CriterionValue > 13 && CriterionValue <= 19"
+        },
+        {
+          "Id": 4,
+          "MatchPredicate": "CriterionValue > 19"
+        }
+      ]
+    }
+  ],
+  "Criteria": [
+    {
+      "Id": 1,
+      "CriterionName": [
+        {
+          "Locale": "ru",
+          "Name": "Заботливый родитель"
+        },
+        {
+          "Locale": "en",
+          "Name": "EN_Заботливый родитель"
+        },
+        {
+          "Locale": "ua",
+          "Name": "Дбайливий батько"
+        }
+      ],
+      "UseCommonCriterionTranslationRangesSet": true,
+      "CommonCriterionTranslationRangesSetName": "Range1",
+      "HasTranslationOptions": true,
+      "CriterionTranslationOptions": [
+        {
+          "Id": 1,
+          "RangeId": 1,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Уровень ответственности крайне низкий."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Уровень ответственности крайне низкий."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Рівень відповідальності вкрай низький."
+            }
+          ]
+        },
+        {
+          "Id": 2,
+          "RangeId": 2,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "При делегировании задач необходимо осуществлять промежуточный контроль."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_При делегировании задач необходимо осуществлять промежуточный контроль."
+            },
+            {
+              "Locale": "ua",
+              "Text": "При делегуванні завдань необхідно здійснювати проміжний контроль."
+            }
+          ]
+        },
+        {
+          "Id": 3,
+          "RangeId": 3,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Тревожный, проявляет беспокойство о работе, иногда напрасно. Старается сделать работу максимально качественно, чтобы к нему не было претензий. Склонен опекать и помогать другим."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Тревожный, проявляет беспокойство о работе, иногда напрасно. Старается сделать работу максимально качественно, чтобы к нему не было претензий. Склонен опекать и помогать другим."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Тривожний, проявляє турботу про роботу, іноді марно. Намагається зробити роботу максимально якісно, щоб до нього не було претензій. Схильний опікати і допомагати іншим."
+            }
+          ]
+        },
+        {
+          "Id": 4,
+          "RangeId": 4,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Работает качественно и самоотверженно.  Склонен чрезмерно опекать других, этим часто пользуются манипуляторы, поэтому он работает больше всех."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Работает качественно и самоотверженно. Склонен чрезмерно опекать других, этим часто пользуются манипуляторы, поэтому он работает больше всех."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Працює якісно і самовіддано. Схильний надмірно опікати інших, цим часто користуються маніпулятори, тому він працює більше всіх."
+            }
+          ]
+        }
+      ],
+      "RelatedQuestions": [
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "f2a848c7-beb7-4c8f-b40f-27e9ec0110ad",
+          "QuestionSequentialNumber": 6,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "9a7aecd9-9270-4cb7-999a-c5c4cd8a4993",
+          "QuestionSequentialNumber": 11,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "eb915d81-097d-411c-b876-577c4292986b",
+          "QuestionSequentialNumber": 22,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "28268427-10ed-4259-825f-b537052217c0",
+          "QuestionSequentialNumber": 29,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "4fb5773a-bd87-49d9-aaf3-f7442e6cfb72",
+          "QuestionSequentialNumber": 33,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "49478425-9bc7-488f-9425-8cab081643bd",
+          "QuestionSequentialNumber": 37,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Direct"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "CriterionName": [
+        {
+          "Locale": "ru",
+          "Name": "Взрослый"
+        },
+        {
+          "Locale": "en",
+          "Name": "EN_Взрослый"
+        },
+        {
+          "Locale": "ua",
+          "Name": "Дорослий"
+        }
+      ],
+      "UseCommonCriterionTranslationRangesSet": true,
+      "CommonCriterionTranslationRangesSetName": "Range1",
+      "HasTranslationOptions": true,
+      "CriterionTranslationOptions": [
+        {
+          "Id": 1,
+          "RangeId": 1,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Самостоятельная или автономная работа НЕ рекомендуется."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Самостоятельная или автономная работа НЕ рекомендуется."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Самостійна або автономна робота НЕ рекомендується."
+            }
+          ]
+        },
+        {
+          "Id": 2,
+          "RangeId": 2,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Этот человек склонен выполнять задания избирательно, нуждается в мотивации и регулярном контроле."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Этот человек склонен выполнять задания избирательно, нуждается в мотивации и регулярном контроле."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Ця людина схильний виконувати завдання вибірково, потребує мотивації і регулярному контролі."
+            }
+          ]
+        },
+        {
+          "Id": 3,
+          "RangeId": 3,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Этот человек может быть хорошим руководителем среднего звена или надежным исполнителем. Конструктивный и вдумчивый."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Этот человек может быть хорошим руководителем среднего звена или надежным исполнителем. Конструктивный и вдумчивый."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Ця людина може бути хорошим керівником середньої ланки або надійним виконавцем. Конструктивний і вдумливий."
+            }
+          ]
+        },
+        {
+          "Id": 4,
+          "RangeId": 4,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Его отличают конструктивный, взвешенный подход к работе и объективный анализ. При достаточном уровне комптенций может быть руководителем любого звена, вплоть до самого высокого."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Его отличают конструктивный, взвешенный подход к работе и объективный анализ. При достаточном уровне комптенций может быть руководителем любого звена, вплоть до самого высокого."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Його відрізняють конструктивний, зважений підхід до роботи і об'єктивний аналіз. При достатньому рівні комптенцій може бути керівником будь-якої ланки, аж до найвищого."
+            }
+          ]
+        }
+      ],
+      "RelatedQuestions": [
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "7426c4bb-236c-4cbb-8c68-18c90a94f3e4",
+          "QuestionSequentialNumber": 13,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "8078469e-251a-4400-b4d2-55283e73a4d7",
+          "QuestionSequentialNumber": 16,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "a9f99a49-5425-41f8-b498-ae712a0577ea",
+          "QuestionSequentialNumber": 19,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "757b7ee4-ebdc-4c95-9254-06adeae3698e",
+          "QuestionSequentialNumber": 23,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "72fde40e-2f2e-465a-9e08-8135672b1f2d",
+          "QuestionSequentialNumber": 26,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "757b7ee4-ebdc-4c95-9254-06adeae3698e",
+          "QuestionSequentialNumber": 32,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "Direct"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "CriterionName": [
+        {
+          "Locale": "ru",
+          "Name": "Шкала аггровации"
+        },
+        {
+          "Locale": "en",
+          "Name": "EN_Шкала аггровации"
+        },
+        {
+          "Locale": "ua",
+          "Name": "Шкала аггровації"
+        }
+      ],
+      "UseCommonCriterionTranslationRangesSet": false,
+      "CriterionTranslationRanges": [
+        {
+          "Id": 1,
+          "MatchPredicate": "CriterionValue < 4"
+        },
+        {
+          "Id": 2,
+          "MatchPredicate": "CriterionValue >= 4"
+        }
+      ],
+      "HasTranslationOptions": true,
+      "CriterionTranslationOptions": [
+        {
+          "Id": 1,
+          "RangeId": 1,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Уровень критичности нормальный."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Уровень критичности нормальный."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Рівень критичності нормальний."
+            }
+          ]
+        },
+        {
+          "Id": 2,
+          "RangeId": 2,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Наблюдается сознательное усиление черт характера  из корыстных побуждений. Респондент сознательно хочет представить себя в наиболее выгодном свете."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Наблюдается сознательное усиление черт характера  из корыстных побуждений. Респондент сознательно хочет представить себя в наиболее выгодном свете."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Спостерігається свідоме посилення рис характеру з корисливих мотивів. Респондент свідомо хоче представити себе в найбільш вигідному світлі."
+            }
+          ]
+        }
+      ],
+      "RelatedQuestions": [
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "41d44772-17de-4b22-8312-b070b09ffe29",
+          "QuestionSequentialNumber": 2,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Ag-Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "fb66afa1-b385-4e30-8485-dbe48949aab7",
+          "QuestionSequentialNumber": 3,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Ag-Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "747992f1-05a0-4f04-a176-53cc1013bbf7",
+          "QuestionSequentialNumber": 17,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Ag-Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "2e67b21e-3aad-45fe-a645-a3d371b0f263",
+          "QuestionSequentialNumber": 21,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Ag-Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "baa4eb82-6d54-44c3-ac4e-f5e6f2a4765b",
+          "QuestionSequentialNumber": 24,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Ag-Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "53035568-f007-4388-b3e7-d80dbfe0e877",
+          "QuestionSequentialNumber": 28,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Ag-Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "b936358b-f0b9-4101-b2a5-85bbb332dae7",
+          "QuestionSequentialNumber": 34,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Ag-Direct"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "CriterionName": [
+        {
+          "Locale": "ru",
+          "Name": "Шкала лжи"
+        },
+        {
+          "Locale": "en",
+          "Name": "EN_Шкала лжи"
+        },
+        {
+          "Locale": "ua",
+          "Name": "Шкала брехні"
+        }
+      ],
+      "UseCommonCriterionTranslationRangesSet": false,
+      "CriterionTranslationRanges": [
+        {
+          "Id": 1,
+          "MatchPredicate": "CriterionValue <= 16"
+        },
+        {
+          "Id": 2,
+          "MatchPredicate": "CriterionValue > 16"
+        }
+      ],
+      "HasTranslationOptions": true,
+      "CriterionTranslationOptions": [
+        {
+          "Id": 1,
+          "RangeId": 1,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Данным можно доверять."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Данным можно доверять."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Даним можна довіряти."
+            }
+          ]
+        },
+        {
+          "Id": 2,
+          "RangeId": 2,
+          "OptionText": [
+            {
+              "Locale": "ru",
+              "Text": "Результаты исследования следует трактовать с учетом желания респондента быть социально привлекательным для работодателя. Рекомендуется провести повторное тестирование через 14 дней."
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Результаты исследования следует трактовать с учетом желания респондента быть социально привлекательным для работодателя. Рекомендуется провести повторное тестирование через 14 дней."
+            },
+            {
+              "Locale": "ua",
+              "Text": "Результати дослідження слід трактувати з урахуванням бажання респондента бути соціально привабливим для роботодавця. Рекомендується провести повторне тестування через 14 днів."
+            }
+          ]
+        }
+      ],
+      "RelatedQuestions": [
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "41d44772-17de-4b22-8312-b070b09ffe29",
+          "QuestionSequentialNumber": 2,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "fb66afa1-b385-4e30-8485-dbe48949aab7",
+          "QuestionSequentialNumber": 3,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "747992f1-05a0-4f04-a176-53cc1013bbf7",
+          "QuestionSequentialNumber": 17,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Direct"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "2e67b21e-3aad-45fe-a645-a3d371b0f263",
+          "QuestionSequentialNumber": 21,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "baa4eb82-6d54-44c3-ac4e-f5e6f2a4765b",
+          "QuestionSequentialNumber": 24,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "53035568-f007-4388-b3e7-d80dbfe0e877",
+          "QuestionSequentialNumber": 28,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Reverse"
+        },
+        {
+          "QuestionSetId": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+          "QuestionId": "b936358b-f0b9-4101-b2a5-85bbb332dae7",
+          "QuestionSequentialNumber": 34,
+          "UseCommonAnswerTranslations": true,
+          "CommonAnswerTranslationName": "4221-Reverse"
+        }
+      ]
+    }
+  ],
+  "QuestionSets": [
+    {
+      "Id": "827b7bd6-745c-44e6-abc4-fce7df11b601",
+      "SequentialNumber": 1,
+      "Name": [
+        {
+          "Locale": "ru",
+          "Text": "Набор А"
+        },
+        {
+          "Locale": "en",
+          "Text": "Set A"
+        },
+        {
+          "Locale": "ua",
+          "Text": "Набір А"
+        }
+      ],
+      "Questions": [
+        {
+          "Id": "bf91a64a-276e-4b5f-9400-bca88e689ab6",
+          "SequentialNumber": 1,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "У меня высокие требования к людям"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_У меня высокие требования к людям"
+            },
+            {
+              "Locale": "ua",
+              "Text": "У мене високі вимоги до людей"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "41d44772-17de-4b22-8312-b070b09ffe29",
+          "SequentialNumber": 2,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я переживаю по поводу чего-либо (из-за того, что кто-то сделал или сказал мне, или из-за того, что я сам сделал или сказал)"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я переживаю по поводу чего-либо (из-за того, что кто-то сделал или сказал мне, или из-за того, что я сам сделал или сказал)"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я переживаю з приводу чого-небудь (через те, що хтось зробив або сказав мені, або через те, що я сам зробив або сказав)"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "fb66afa1-b385-4e30-8485-dbe48949aab7",
+          "SequentialNumber": 3,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я опаздываю на работу или на встречу с кем-либо"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я опаздываю на работу или на встречу с кем-либо"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я спізнююся на роботу або на зустріч з ким-небудь"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "b0cd9f9b-d44a-489a-8b60-6cfc4ea542eb",
+          "SequentialNumber": 4,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я люблю, когда вокруг порядок и чистота"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я люблю, когда вокруг порядок и чистота"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я люблю, коли навколо порядок і чистота"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "be25a5cc-dc26-4682-94e1-723c91cb165f",
+          "SequentialNumber": 5,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я думаю, пробовать новое – очень интересно"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я думаю, пробовать новое – очень интересно"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я думаю, пробувати нове - дуже цікаво"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "f2a848c7-beb7-4c8f-b40f-27e9ec0110ad",
+          "SequentialNumber": 6,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я горжусь успехами своих друзей или коллег по работе"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я горжусь успехами своих друзей или коллег по работе"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я пишаюся успіхами своїх друзів або колег по роботі"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "06afe2e0-7d67-48ba-aff2-bc92b44c8c45",
+          "SequentialNumber": 7,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я шучу и смеюсь"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я шучу и смеюсь"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я жартую і сміюся"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "be114f2e-d676-45ef-814b-8b5f3ffeb9fc",
+          "SequentialNumber": 8,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Мне сложно сотрудничать с другими"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Мне сложно сотрудничать с другими"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Мені складно співпрацювати з іншими"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "57a1803e-d7be-45ae-9a4e-04e1efd803d7",
+          "SequentialNumber": 9,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я полон энтузиазма"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я полон энтузиазма"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я сповнений ентузіазму"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "3844b3b2-bb23-48f8-b236-a4ae640a4422",
+          "SequentialNumber": 10,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я стараюсь произвести хорошее впечатление"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я стараюсь произвести хорошее впечатление"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я намагаюся справити хороше враження"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "9a7aecd9-9270-4cb7-999a-c5c4cd8a4993",
+          "SequentialNumber": 11,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я всегда уважаю желание других людей попробовать что-нибудь самостоятельно"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я всегда уважаю желание других людей попробовать что-нибудь самостоятельно"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я завжди поважаю бажання інших людей спробувати що-небудь самостійно"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "050dd422-d23a-435c-b654-dccc62c84d8d",
+          "SequentialNumber": 12,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я считаю, что все чувства хороши"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я считаю, что все чувства хороши"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я вважаю, що всі почуття гарні"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "7426c4bb-236c-4cbb-8c68-18c90a94f3e4",
+          "SequentialNumber": 13,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я позволяю разуму управлять своими чувствами"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я позволяю разуму управлять своими чувствами"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я дозволяю розуму керувати своїми почуттями"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "ef8f4ae8-2f90-4c43-b831-47657ab53f85",
+          "SequentialNumber": 14,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я часто принимаю спонтанные решения"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я часто принимаю спонтанные решения"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я часто приймаю спонтанні рішення"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "2d371566-1c0b-4a4a-bc2a-534d4d2e0447",
+          "SequentialNumber": 15,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я отвергаю предложения, кажущиеся недостаточно продуманными"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я отвергаю предложения, кажущиеся недостаточно продуманными"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я відкидаю пропозиції, що здаються недостатньо продуманими"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "8078469e-251a-4400-b4d2-55283e73a4d7",
+          "SequentialNumber": 16,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Мне достаточно внутренней уверенности и веры в проект, чтобы вложить деньги"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Мне достаточно внутренней уверенности и веры в проект, чтобы вложить деньги"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Мені досить внутрішньої впевненості і віри в проект, щоб вкласти гроші"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "747992f1-05a0-4f04-a176-53cc1013bbf7",
+          "SequentialNumber": 17,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я сдерживаю обещания, даже если мне это не выгодно"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я сдерживаю обещания, даже если мне это не выгодно"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я стримую обіцянки, навіть якщо мені це не вигідно"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "cff96c29-d5fc-45f1-8a20-5362f6e93510",
+          "SequentialNumber": 18,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Когда я вижу, что кто-то допускает ошибку, я сразу же помогаю ему ее увидеть"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Когда я вижу, что кто-то допускает ошибку, я сразу же помогаю ему ее увидеть"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Коли я бачу, що хтось припускається помилки, я відразу ж допомагаю йому її побачити"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "a9f99a49-5425-41f8-b498-ae712a0577ea",
+          "SequentialNumber": 19,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я уделяю особое внимание тщательному планированию"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я уделяю особое внимание тщательному планированию"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я приділяю особливу увагу ретельному плануванню"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "832f7507-9637-42a2-91bc-1bfb0d78cc44",
+          "SequentialNumber": 20,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "У меня открытые отношения с окружающими"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_У меня открытые отношения с окружающими"
+            },
+            {
+              "Locale": "ua",
+              "Text": "У мене відкриті відносини з оточуючими"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "2e67b21e-3aad-45fe-a645-a3d371b0f263",
+          "SequentialNumber": 21,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я говорю только правду"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я говорю только правду"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я говорю тільки правду"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "eb915d81-097d-411c-b876-577c4292986b",
+          "SequentialNumber": 22,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Мне нравится оказывать людям конструктивную поддержку"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Мне нравится оказывать людям конструктивную поддержку"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Мені подобається робити людям конструктивну підтримку"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "757b7ee4-ebdc-4c95-9254-06adeae3698e",
+          "SequentialNumber": 23,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я совершаю спонтанные поступки"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я совершаю спонтанные поступки"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я роблю спонтанні вчинки"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "baa4eb82-6d54-44c3-ac4e-f5e6f2a4765b",
+          "SequentialNumber": 24,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "У меня бывают мысли, которыми я не хотел бы делиться с другими"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_У меня бывают мысли, которыми я не хотел бы делиться с другими"
+            },
+            {
+              "Locale": "ua",
+              "Text": "У мене бувають думки, якими я не хотів би ділитися з іншими"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "dd943d66-c7bc-440c-bb96-2ece4a1148fb",
+          "SequentialNumber": 25,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я придерживаюсь общепринятых правил"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я придерживаюсь общепринятых правил"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я дотримуюся загальноприйнятих правил"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "72fde40e-2f2e-465a-9e08-8135672b1f2d",
+          "SequentialNumber": 26,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Мои решения основываются на фактах"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Мои решения основываются на фактах"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Мої рішення ґрунтуються на фактах"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "70b2406f-a97e-4ac2-9277-7876a1d89426",
+          "SequentialNumber": 27,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Если кто-то нарушает наше с ним соглашение, я выясняю с ним эту ситуацию"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Если кто-то нарушает наше с ним соглашение, я выясняю с ним эту ситуацию"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Якщо хтось порушує наше з ним угоду, я з'ясовую з ним цю ситуацію"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "53035568-f007-4388-b3e7-d80dbfe0e877",
+          "SequentialNumber": 28,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Разозлившись, я раздражаюсь и выхожу из себя"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Разозлившись, я раздражаюсь и выхожу из себя"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Розлютившись, я дратуюся і виходжу з себе"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "28268427-10ed-4259-825f-b537052217c0",
+          "SequentialNumber": 29,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я поощряю людей к развитию своих талантов"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я поощряю людей к развитию своих талантов"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я заохочую людей до розвитку своїх талантів"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "d0e49bfb-9412-4965-8fa2-c74bd2e5cae1",
+          "SequentialNumber": 30,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я останавливаю неподобающее поведение"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я останавливаю неподобающее поведение"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я зупиняю неналежну поведінку"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "815d0167-cbd5-4991-8575-83b8dc2999a9",
+          "SequentialNumber": 31,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я думаю, важно показать людям, что они вам не безразличны"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я думаю, важно показать людям, что они вам не безразличны"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я думаю, важливо показати людям, що вони вам не байдужі"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "ee6d3dcb-1af3-4b2a-815d-0931f4366e45",
+          "SequentialNumber": 32,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я целеустремленный и организованный человек"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я целеустремленный и организованный человек"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я цілеспрямована і організована людина"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "4fb5773a-bd87-49d9-aaf3-f7442e6cfb72",
+          "SequentialNumber": 33,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Люди мне действительно не безразличны"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Люди мне действительно не безразличны"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Люди мені дійсно не байдужі"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "b936358b-f0b9-4101-b2a5-85bbb332dae7",
+          "SequentialNumber": 34,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я завершаю, за день: все, что сегодня предполагалось сделать"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я завершаю, за день: все, что сегодня предполагалось сделать"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я завершую, за день: все, що сьогодні передбачалося зробити"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "a8ae3abb-c9f5-4f3b-86b2-e28c10ef0146",
+          "SequentialNumber": 35,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я четко обозначаю свои границы"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я четко обозначаю свои границы"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я чітко позначаю свої кордони"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "b42cebc2-3e79-4999-9e90-019275b45e9c",
+          "SequentialNumber": 36,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я стараюсь избегать любых провокаций"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я стараюсь избегать любых провокаций"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я намагаюся уникати будь-яких провокацій"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        },
+        {
+          "Id": "49478425-9bc7-488f-9425-8cab081643bd",
+          "SequentialNumber": 37,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Я люблю создавать уют для моих друзей"
+            },
+            {
+              "Locale": "en",
+              "Text": "EN_Я люблю создавать уют для моих друзей"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Я люблю створювати затишок для моїх друзів"
+            }
+          ],
+          "UseCommonAnswerOptionSets": true,
+          "CommonAnswerOptionSetName": "4-disagree-to-agree"
+        }
+      ]
+    }
+  ]
+}

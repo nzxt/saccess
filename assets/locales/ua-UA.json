@@ -1,0 +1,55 @@
+{
+  "svg": {
+	"text1": [
+	  "Раді",
+	  "Вас",
+	  "Бачити"
+	],
+	"text2": [
+	  "Центр",
+	  "Оцінювання",
+	  "Продаж"
+	],
+	"text3": [
+	  "Давай",
+	  "Пройдемо",
+	  "Тести"
+	]
+  },
+  "title": "Центр Оцінювання Продаж",
+  "title_html": "<span class='abbreviation'>Ц</span><span class='ghost'>ентр</span> <span class='abbreviation'>О</span><span class='ghost'>цінювання</span> <span class='abbreviation'>П</span><span class='ghost'>родаж</span>",
+  "actions": "Дії",
+  "yes": "Так",
+  "no": "Ні",
+  "edit": "Редагувати",
+  "username": "Ім'я користувача",
+  "password": "Пароль",
+  "password_confirm": "Підтвердіть пароль",
+  "signin": "Увійти",
+  "login": "Логін",
+  "forgot_password": "Забули пароль?",
+  "remove": "Видалити",
+  "destroy_confirm_title": "Підтвердіть",
+  "destroy_confirm": "Ви впевнені, що бажаєте видалити це?",
+  "logout": "Вийти",
+  "signout": "Вийти",
+  "back": "Повернутись",
+  "save": "Зберегти",
+  "update": "Оновити",
+  "messages": {
+    "signin_title": "Увійдіть в свій акаунт",
+    "signin_tip": "Привіт, Користувач! Увійдіть, спочатку.."
+  },
+  "forms": {
+    "errors": {
+      "required": "Будь ласка, заповніть це.",
+      "standard": "Сталася помилка сервера."
+    }
+  },
+  "user": {
+    "singular": "користувач",
+    "plural": "користувачі",
+    "new": "Новий користувач",
+    "edit": "Редагувати користувача"
+  }
+}

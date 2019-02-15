@@ -1,0 +1,729 @@
+﻿{
+  "Id": "049f8f1d-e0b2-4ed5-a894-656aa9ff21d8",
+  "InternalTestName": "LevelOfLoyalty",
+  "TestName": [
+    {
+      "Locale": "ru",
+      "Name": "Уровень лояльности"
+    },
+    {
+      "Locale": "en",
+      "Name": "en_Уровень лояльности"
+    },
+    {
+      "Locale": "ua",
+      "Name": "Рівень лояльності"
+    }
+  ],
+  "Instruction": [
+    {
+      "Locale": "ru",
+      "Text": "<span> <p class=\"title\">Уважаемый коллега!</p> <p>Вам предлагается пройти тестирование <strong>«Уровень лояльности»</strong>.</p> <p class=\"subheading\" style=\"text-decoration: underline\">Исследование состоит из двух этапов:</p> <p>Сейчас Вам будут предъявлены <strong>2</strong> набора по <strong>18</strong> ценностей: <strong>«Терминальные»</strong> и <strong>«Инструменталные»</strong>.</p> <p>Ваша задача - разместить их в порядке значимости для Вас, как принципов, которыми Вы руководствуетесь в жизни.</p> <p>Каждый принцип записан в отдельной строке. Внимательно изучите ценности, и, выбрав ту, которая для Вас наиболее значима, с помощью мышки переместите ее на первое место. Затем выберите из оставшихся наиболее значимый принцип и поместите его вслед за первым. Затем проделайте то же со всеми оставшимися строками. Наименее важная ценность займет 18-е место.</p> <p>Если в процессе работы Вы измените свое мнение, то можете исправить свои ответы. Конечный результат должен отражать Вашу истинную позицию.</p> <p>Тест имеет ограничение по времени – <strong>20 минут</strong>. Таймер, показывающий количество оставшегося времени Вы можете увидеть на верхней панели.</p> <p class=\"subheading\" style=\"text-decoration: underline\">Управление:</p> <p> <i class=\"mdi deep-orange--text text--lighten-2 icon mdi-marker-check\"></i> <strong>«Завершить тест»</strong> -  после того как Вы ответили на все вопросы, необходимо нажать на кнопку на верхней панели.<br/> <i class=\"mdi strong blue--text text--lighten-2 icon mdi-information\"></i> <strong>«Инструкция»</strong> - данная инструкция будет доступна Вам по нажатию на кнопку в левом нижнем углу интерфейса.<br/> <i class=\"mdi strong purple--text text--lighten-2 icon mdi-arrow-up-drop-circle\"></i> <strong>«Вверх»</strong> - прокрутка списка вопросов вверх до начала страницы, находится в правом нижнем углу интерфейса. </p> <p class=\"subheading\"><span style=\"text-decoration: underline\">ВАЖНО!!!</span>   Пожалуйста, работайте быстро и внимательно!</p> <p><strong>Обращаем Ваше внимание на то, что каждый тест можно пройти только один раз!</strong><br/>Поэтому, не закрывайте браузер и не уходите со страницы прохождения теста.</p> </span>"
+    },
+    {
+      "Locale": "en",
+      "Text": "<span> <p class=\"title\">EN_Уважаемый коллега!</p> <p>Вам предлагается пройти тестирование <strong>«Уровень лояльности»</strong>.</p> <p class=\"subheading\" style=\"text-decoration: underline\">Исследование состоит из двух этапов:</p> <p>Сейчас Вам будут предъявлены <strong>2</strong> набора по <strong>18</strong> ценностей: <strong>«Терминальные»</strong> и <strong>«Инструменталные»</strong>.</p> <p>Ваша задача - разместить их в порядке значимости для Вас, как принципов, которыми Вы руководствуетесь в жизни.</p> <p>Каждый принцип записан в отдельной строке. Внимательно изучите ценности, и, выбрав ту, которая для Вас наиболее значима, с помощью мышки переместите ее на первое место. Затем выберите из оставшихся наиболее значимый принцип и поместите его вслед за первым. Затем проделайте то же со всеми оставшимися строками. Наименее важная ценность займет 18-е место.</p> <p>Если в процессе работы Вы измените свое мнение, то можете исправить свои ответы. Конечный результат должен отражать Вашу истинную позицию.</p> <p>Тест имеет ограничение по времени – <strong>20 минут</strong>. Таймер, показывающий количество оставшегося времени Вы можете увидеть на верхней панели.</p> <p class=\"subheading\" style=\"text-decoration: underline\">Управление:</p> <p> <i class=\"mdi deep-orange--text text--lighten-2 icon mdi-marker-check\"></i> <strong>«Завершить тест»</strong> -  после того как Вы ответили на все вопросы, необходимо нажать на кнопку на верхней панели.<br/> <i class=\"mdi strong blue--text text--lighten-2 icon mdi-information\"></i> <strong>«Инструкция»</strong> - данная инструкция будет доступна Вам по нажатию на кнопку в левом нижнем углу интерфейса.<br/> <i class=\"mdi strong purple--text text--lighten-2 icon mdi-arrow-up-drop-circle\"></i> <strong>«Вверх»</strong> - прокрутка списка вопросов вверх до начала страницы, находится в правом нижнем углу интерфейса. </p> <p class=\"subheading\"><span style=\"text-decoration: underline\">ВАЖНО!!!</span>   Пожалуйста, работайте быстро и внимательно!</p> <p><strong>Обращаем Ваше внимание на то, что каждый тест можно пройти только один раз!</strong><br/>Поэтому, не закрывайте браузер и не уходите со страницы прохождения теста.</p> </span>"
+    },
+    {
+      "Locale": "ua",
+      "Text": "<span> <p class=\"title\">UA_Уважаемый коллега!</p> <p>Вам предлагается пройти тестирование <strong>«Уровень лояльности»</strong>.</p> <p class=\"subheading\" style=\"text-decoration: underline\">Исследование состоит из двух этапов:</p> <p>Сейчас Вам будут предъявлены <strong>2</strong> набора по <strong>18</strong> ценностей: <strong>«Терминальные»</strong> и <strong>«Инструменталные»</strong>.</p> <p>Ваша задача - разместить их в порядке значимости для Вас, как принципов, которыми Вы руководствуетесь в жизни.</p> <p>Каждый принцип записан в отдельной строке. Внимательно изучите ценности, и, выбрав ту, которая для Вас наиболее значима, с помощью мышки переместите ее на первое место. Затем выберите из оставшихся наиболее значимый принцип и поместите его вслед за первым. Затем проделайте то же со всеми оставшимися строками. Наименее важная ценность займет 18-е место.</p> <p>Если в процессе работы Вы измените свое мнение, то можете исправить свои ответы. Конечный результат должен отражать Вашу истинную позицию.</p> <p>Тест имеет ограничение по времени – <strong>20 минут</strong>. Таймер, показывающий количество оставшегося времени Вы можете увидеть на верхней панели.</p> <p class=\"subheading\" style=\"text-decoration: underline\">Управление:</p> <p> <i class=\"mdi deep-orange--text text--lighten-2 icon mdi-marker-check\"></i> <strong>«Завершить тест»</strong> -  после того как Вы ответили на все вопросы, необходимо нажать на кнопку на верхней панели.<br/> <i class=\"mdi strong blue--text text--lighten-2 icon mdi-information\"></i> <strong>«Инструкция»</strong> - данная инструкция будет доступна Вам по нажатию на кнопку в левом нижнем углу интерфейса.<br/> <i class=\"mdi strong purple--text text--lighten-2 icon mdi-arrow-up-drop-circle\"></i> <strong>«Вверх»</strong> - прокрутка списка вопросов вверх до начала страницы, находится в правом нижнем углу интерфейса. </p> <p class=\"subheading\"><span style=\"text-decoration: underline\">ВАЖНО!!!</span>   Пожалуйста, работайте быстро и внимательно!</p> <p><strong>Обращаем Ваше внимание на то, что каждый тест можно пройти только один раз!</strong><br/>Поэтому, не закрывайте браузер и не уходите со страницы прохождения теста.</p> </span>"
+    }
+  ],
+  "Version": "1.0.0",
+  "SupportedLocales": [
+    "ru",
+    "en",
+    "ua"
+  ],
+  "Duration": 1200,
+  "QuestionSets": [
+    {
+      "Id": "ff698e17-fdfc-46db-95e1-99a036198bfa",
+      "SequentialNumber": 1,
+      "Name": [
+        {
+          "Locale": "ru",
+          "Text": "Ценности - цели"
+        },
+        {
+          "Locale": "en",
+          "Text": "en_ Ценности - цели"
+        },
+        {
+          "Locale": "ua",
+          "Text": "Цінності - цілі"
+        }
+      ],
+      "Questions": [
+        {
+          "Id": "d4bf57e8-5e83-44f6-9d39-1d6738064d88",
+          "SequentialNumber": 1,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Активная деятельная жизнь"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Активная деятельная жизнь"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Активне діяльне життя"
+            }
+          ]
+        },
+        {
+          "Id": "c45d45af-cb9c-4a1e-b48b-28e1fdbe8cba",
+          "SequentialNumber": 2,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Жизненная мудрость"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Жизненная мудрость"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Життєва мудрість"
+            }
+          ]
+        },
+        {
+          "Id": "4f7ef349-b5ce-4e56-8347-4baa0ad1401f",
+          "SequentialNumber": 3,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Здоровье"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Здоровье"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Здоров'я"
+            }
+          ]
+        },
+        {
+          "Id": "3bbd543b-5d9b-4700-9c6b-2f023dc1004e",
+          "SequentialNumber": 4,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Интересная работа"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Интересная работа"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Цікава робота"
+            }
+          ]
+        },
+        {
+          "Id": "3c7371d3-401e-4c84-824f-6b3ea3d0fd72",
+          "SequentialNumber": 5,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Красота природы и искусства"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Красота природы и искусства"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Краса природи і мистецтва"
+            }
+          ]
+        },
+        {
+          "Id": "e45aa8cd-6f15-4637-97b0-4fa9947c623d",
+          "SequentialNumber": 6,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Любовь"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Любовь"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Любов"
+            }
+          ]
+        },
+        {
+          "Id": "f50b6f55-44ab-47e8-88ff-f77bb6eedf06",
+          "SequentialNumber": 7,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Материально обеспеченная жизнь"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Материально обеспеченная жизнь"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Матеріально забезпечене життя"
+            }
+          ]
+        },
+        {
+          "Id": "36a4de53-0973-447e-99a1-cb5bd1ad81ee",
+          "SequentialNumber": 8,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Наличие хороших и верных друзей"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Наличие хороших и верных друзей"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Наявність хороших і вірних друзів"
+            }
+          ]
+        },
+        {
+          "Id": "b3ae2683-bfba-4048-9666-5f6286712177",
+          "SequentialNumber": 9,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Общественное признание"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Общественное признание"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Суспільне визнання"
+            }
+          ]
+        },
+        {
+          "Id": "e5d03231-4c13-4483-b1d0-b4b4549e4ed8",
+          "SequentialNumber": 10,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Познание"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Познание"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Пізнання"
+            }
+          ]
+        },
+        {
+          "Id": "22187b59-d250-447c-958a-788fd6f498a6",
+          "SequentialNumber": 11,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Продуктивная жизнь"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Продуктивная жизнь"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Продуктивне життя"
+            }
+          ]
+        },
+        {
+          "Id": "31ce7546-31da-4165-8bf3-f1f090579527",
+          "SequentialNumber": 12,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Развитие"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Развитие"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Розвиток"
+            }
+          ]
+        },
+        {
+          "Id": "72dbb108-484a-4fed-8d9e-1c88fb91414b",
+          "SequentialNumber": 13,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Развлечения"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Развлечения"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Розваги"
+            }
+          ]
+        },
+        {
+          "Id": "902dcbc9-7d43-457e-a0f6-01adffd6cfe0",
+          "SequentialNumber": 14,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Свобода"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Свобода"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Свобода"
+            }
+          ]
+        },
+        {
+          "Id": "ddfe98a5-401c-49d9-a6ec-5d71e79a8731",
+          "SequentialNumber": 15,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Счастливая семейная жизнь"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Счастливая семейная жизнь"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Щасливе сімейне життя"
+            }
+          ]
+        },
+        {
+          "Id": "d4b7ee4a-0337-47a0-a38a-3c37f078fba7",
+          "SequentialNumber": 16,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Счастье других"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Счастье других"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Щастя інших"
+            }
+          ]
+        },
+        {
+          "Id": "56677235-6385-4355-8f85-63fe1e9a1f67",
+          "SequentialNumber": 17,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Творчество"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Творчество"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Творчість"
+            }
+          ]
+        },
+        {
+          "Id": "2b388944-55d9-451d-9998-8bbb7aad05d9",
+          "SequentialNumber": 18,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Уверенность в себе"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Уверенность в себе"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Впевненість у собі"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "d852a0d6-e438-4cc9-b99d-388bf63f9d85",
+      "SequentialNumber": 2,
+      "Name": [
+        {
+          "Locale": "ru",
+          "Text": "Ценности - средства"
+        },
+        {
+          "Locale": "en",
+          "Text": "en_ Ценности - средства"
+        },
+        {
+          "Locale": "ua",
+          "Text": "Цінності - засоби"
+        }
+      ],
+      "Questions": [
+        {
+          "Id": "46571448-137f-40a0-9a7a-1aa2b155c352",
+          "SequentialNumber": 1,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Аккуратность"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Аккуратность"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Акуратність"
+            }
+          ]
+        },
+        {
+          "Id": "a2361ca7-cbdb-4cd3-ba1b-bbd538472826",
+          "SequentialNumber": 2,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Воспитанность"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Воспитанность"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Вихованість"
+            }
+          ]
+        },
+        {
+          "Id": "1f0652db-1b9f-4f27-81a9-c5eb3f58fee9",
+          "SequentialNumber": 3,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Высокие запросы"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Высокие запросы"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Високі запити"
+            }
+          ]
+        },
+        {
+          "Id": "fef795b2-59d2-4299-adce-f507969d9041",
+          "SequentialNumber": 4,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Жизнерадостность"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Жизнерадостность"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Життєрадісність"
+            }
+          ]
+        },
+        {
+          "Id": "b5f3ee6b-faa7-4060-809f-b6145ef6c3f0",
+          "SequentialNumber": 5,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Исполнительность"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Исполнительность"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Старанність"
+            }
+          ]
+        },
+        {
+          "Id": "103fc66e-2f5f-403d-973e-a7f15cb991e2",
+          "SequentialNumber": 6,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Независимость"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Независимость"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Незалежність"
+            }
+          ]
+        },
+        {
+          "Id": "f1627590-a5fb-443e-b5b6-fb38de68e0b1",
+          "SequentialNumber": 7,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Непримиримость к недостаткам  в себе и других"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Непримиримость к недостаткам  в себе и других"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Непримиренність до недоліків у собі та інших"
+            }
+          ]
+        },
+        {
+          "Id": "30abfca8-8d7d-4315-9d8c-fa473a3f5354",
+          "SequentialNumber": 8,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Образованность"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Образованность"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Освіченість"
+            }
+          ]
+        },
+        {
+          "Id": "e48051fb-a7ad-41fa-989f-a7b9e9a601ac",
+          "SequentialNumber": 9,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Ответственность"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Ответственность"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Відповідальність"
+            }
+          ]
+        },
+        {
+          "Id": "8d03ef4d-4967-4e4a-b775-24cd90f22053",
+          "SequentialNumber": 10,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Рационализм"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Рационализм"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Раціоналізм"
+            }
+          ]
+        },
+        {
+          "Id": "455fcec0-6292-4c15-b5ea-fa6d0c66d2e4",
+          "SequentialNumber": 11,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Самоконтроль"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Самоконтроль"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Самоконтроль"
+            }
+          ]
+        },
+        {
+          "Id": "27b0acfc-0922-43aa-a0a7-92523bf6c0c3",
+          "SequentialNumber": 12,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Смелость в отстаивании своего мнения, своих взглядов"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Смелость в отстаивании своего мнения, своих взглядов"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Сміливість у відстоюванні своєї думки, своїх поглядів"
+            }
+          ]
+        },
+        {
+          "Id": "7c528705-d3db-406c-9980-d9bcab26d0e6",
+          "SequentialNumber": 13,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Твердая воля"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Твердая воля"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Тверда воля"
+            }
+          ]
+        },
+        {
+          "Id": "3623985b-17ef-4c0d-b2f7-1dbc44c4e18d",
+          "SequentialNumber": 14,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Терпимость"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Терпимость"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Терпимість"
+            }
+          ]
+        },
+        {
+          "Id": "ffdb471a-7037-4512-8789-ed55f449e9d3",
+          "SequentialNumber": 15,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Широта взглядов"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Широта взглядов"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Широта поглядів"
+            }
+          ]
+        },
+        {
+          "Id": "232ba066-4db5-4264-b2f1-4d8d09f78ee2",
+          "SequentialNumber": 16,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Честность"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Честность"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Чесність"
+            }
+          ]
+        },
+        {
+          "Id": "4258d163-87a8-4ca9-ac0a-ed85e94c0f9a",
+          "SequentialNumber": 17,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Эффективность в делах"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Эффективность в делах"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Ефективність у справах"
+            }
+          ]
+        },
+        {
+          "Id": "03769417-c181-416b-8661-34fbf4e342a6",
+          "SequentialNumber": 18,
+          "QuestionText": [
+            {
+              "Locale": "ru",
+              "Text": "Чуткость"
+            },
+            {
+              "Locale": "en",
+              "Text": "en_Чуткость"
+            },
+            {
+              "Locale": "ua",
+              "Text": "Чуйність"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

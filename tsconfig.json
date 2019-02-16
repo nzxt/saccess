@@ -8,12 +8,12 @@
       "@types/node",
       "@nuxt/vue-app",
     ],
-    // "module": "esnext",
-    // "target": "esnext",
-    // "lib": [
-    //   "esnext",
-    //   "dom",
-    // ],
+    "module": "esnext",
+    "target": "es6",
+    "lib": [
+      "esnext",
+      "dom"
+    ],
     "paths": {
       "~/*": ["./*"],
       "@/*": ["./*"]
